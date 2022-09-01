@@ -4,7 +4,7 @@
 - 📫 How to reach me: https://kelvinojeda071.github.io/cvkelvinojeda/
 - ⚡ Thanks for being here
 ## Evolution of my projects
-![snake gif](https://github.com/kelvinOjeda071/kelvinOjeda071/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kelvinOjeda071/kelvinOjeda071/blob/output/github-contribution-grid-snake.svg)
 <!--
 **kelvinOjeda071/kelvinOjeda071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
