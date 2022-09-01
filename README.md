@@ -1,5 +1,5 @@
 ### Hi there👋, my name is Kelvin Ojeda.
-- 🔭 I’m currently studying at Escuela Politécnica Nacional.
+- 🔭 I’m currently studying Software Engineering at Escuela Politécnica Nacional.
 - 👨🏻‍💻 I hope my projects would be useful if you are interested.
 - 📫 How to reach me: https://kelvinojeda071.github.io/cvkelvinojeda/
 - ⚡ Thanks for being here
